@@ -1,6 +1,6 @@
 # AirBnB Clone Project
 This project is a part of the AirBnB clone project, aimed at building a web application similar to AirBnB. The first step of this project involves creating a command interpreter to manage AirBnB objects.
-![image](./image/hbnb_logo.png)
+![image](web_static/images/hbnb_logo.png)
 
 This is the first phase of a four phase project, to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
 
