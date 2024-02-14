@@ -44,7 +44,7 @@ Here are some example commands:
 ## Examples
 Here are a few examples of how to use the command interpreter:
 
-``
+```
 $ python3 console.py
 (hbnb) create User
 f27798a2-2927-4f35-ae8f-7d30d36bc2e0
